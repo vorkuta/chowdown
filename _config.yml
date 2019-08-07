@@ -1,10 +1,10 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+title: RainbowFables Food
+email: rainbowfables@gmail.com
+description: The recipes of RainbowFables
+baseurl: "food.rainbowfables.com"
+twitter_username: dolandark
+github_username:  vorkuta
 
 # Build settings
 markdown: kramdown
